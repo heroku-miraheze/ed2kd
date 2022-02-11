@@ -11,7 +11,7 @@ listen_port = 4661;
 listen_backlog = 5;
 
 // welcom message, optional
-welcome_message = "test messaage";
+welcome_message = "GrupoTS Server";
 
 // allow lowid clients
 allow_lowid = 1;
